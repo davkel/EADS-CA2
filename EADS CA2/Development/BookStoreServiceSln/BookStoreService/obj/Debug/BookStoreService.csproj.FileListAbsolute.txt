@@ -1,0 +1,12 @@
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\bin\BookStoreService.dll.config
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\bin\BookStoreService.dll
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\bin\BookStoreService.pdb
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\bin\DBLib.dll
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\bin\EntityFramework.dll
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\bin\EntityFramework.SqlServer.dll
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\bin\DBLib.pdb
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\bin\EntityFramework.xml
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\bin\EntityFramework.SqlServer.xml
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\obj\Debug\BookStoreService.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\obj\Debug\BookStoreService.dll
+C:\Users\david\Documents\DT265\Enterprise App Development\EADS CA2\EADS CA2\Development\BookStoreServiceSln\BookStoreService\obj\Debug\BookStoreService.pdb

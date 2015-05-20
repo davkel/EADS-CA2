@@ -1,0 +1,24 @@
+﻿@model IList<BookStore.Models.Book>
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    
+    }
+
+
+@section featured {
+
+    }
+<h2>Search for Book Title in Book Store </h2>
+@using (Html.BeginForm("Search", "Book", FormMethod.Post))
+{
+    @Html.TextBox("Title", "Title")
+
+    <input type="submit" value="Search" />
+
+}
+
+<div id="welcome">Welcome to The Book Factory! We are an independently owned<br /> bookshop located in Central Dublin. We do not currently sell books online,
+    but<br /> feel free to browse our extensive catalogue, or look for a specific book in the<br /> search bar above. If you can't find what you're looking for,
+     pop down<br /> to the shop and we'll order it in for you.</div>
+<div id="homepic"><img src="~/Content/Images/bookshop.jpg" /></div>
